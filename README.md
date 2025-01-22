@@ -12,6 +12,7 @@ Para rodar o programa será necessário:
    ![image](https://github.com/user-attachments/assets/0a935e54-dabb-49f9-9bbf-d17461cb28bf)
    
 5. Inicializar a aplicação pelo arquivo main.py.
+
    4.1. Você pode manipular o horário designado para teste ou pular o schedule para testar a aplicação.
 
 ===========================================================================================
@@ -29,4 +30,5 @@ To run the program, the following steps are necessary:
   ![image](https://github.com/user-attachments/assets/0a935e54-dabb-49f9-9bbf-d17461cb28bf)
 
 4. Initialize the application via the main.py file.
+
    4.1. You can adjust the scheduled time for testing or skip the schedule to test the application.
