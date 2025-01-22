@@ -14,7 +14,7 @@ Para rodar o programa será necessário:
 5. Inicializar a aplicação pelo arquivo main.py.
    4.1. Você pode manipular o horário designado para teste ou pular o schedule para testar a aplicação.
 
-============================================================================================================================
+===========================================================================================
 
 This is a Python program developed for practice. It aims to access two sources, iterate over the desired items, process them, enrich them, and return them in a CSV file.
 For this, I used the Medallion architecture, and the technologies used include the Pandas library to manipulate the data, BeautifulSoup to perform the initial parsing of the websites, and Schedule to create the daily automation.
